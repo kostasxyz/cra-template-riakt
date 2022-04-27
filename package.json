@@ -1,18 +1,26 @@
 {
   "name": "cra-template-riakt",
-  "version": "1.0.0",
-  "description": "React starter with tailwind, react router, and valtio",
-  "main": "index.js",
+  "version": "0.0.1",
+  "keywords": [
+    "riakt",
+    "create-react-app",
+    "template"
+  ],
+  "description": "React base template with tailwind, react router, and valtio.",
+  "author": "Kostas Charalampidis",
   "repository": {
     "type": "git",
     "url": "https://github.com/kostasxyz/cra-template-riakt.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
   },
-  "keywords": [
-    "react"
-  ],
-  "author": "Kostas Charalampidis",
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/kostasxyz/cra-template-riakt/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
