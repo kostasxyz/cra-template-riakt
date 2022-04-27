@@ -1,0 +1,8 @@
+{
+    "package": {
+      "dependencies": {
+        "react-router-dom": "^6.3.0",
+        "valtio": "^1.6.0"
+      }
+    }
+  }

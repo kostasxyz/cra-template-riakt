@@ -1,0 +1,18 @@
+{
+  "name": "cra-template-riakt",
+  "version": "1.0.0",
+  "description": "React starter with tailwind, react router, and valtio",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kostasxyz/cra-template-riakt.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Kostas Charalampidis",
+  "license": "ISC"
+}
